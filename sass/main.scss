@@ -49,7 +49,7 @@ html, body {
     [id^="slide"]:checked + .slide {
     left: 0;
     z-index: 100;
-    transition: left 0.65s ease-out;
+    transition: left 3.65s ease-out;
     }
     .slide-1 {
     background-image: url("../image/1.jpg");
